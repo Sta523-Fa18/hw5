@@ -1,5 +1,6 @@
-Homework 5 - La Quinta is Spanish for next to Denny's - due Monday 10/21 by 11:59 pm
+Homework 5 - La Quinta is Spanish for next to Denny's - 
 ---
+due Wednesday 10/23 by 11:59 pm
 
 <br/>
 
