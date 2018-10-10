@@ -3,7 +3,7 @@ Homework 5 - La Quinta is Spanish for next to Denny's - due Monday 10/21 by 11:5
 
 <br/>
 <div style="text-align:center">
-![dennys next to la quinta](http://www2.stat.duke.edu/~cr173/Sta323_Sp18/homework/imgs/hedberg.jpg)
+![dennys next to la quinta](hedberg.jpg?raw=1)
 </div>
 <br/>
 

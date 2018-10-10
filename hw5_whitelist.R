@@ -7,7 +7,8 @@ allowed_files = c("hw5.Rmd",
                   "get_lq.R",
                   "parse_lq.R",
                   "get_dennys.R",
-                  "parse_dennys.R")
+                  "parse_dennys.R",
+                  "hedberg.jpg")
 
 files = dir()
 disallowed_files = files[!(files %in% allowed_files)]
